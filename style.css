@@ -39,25 +39,25 @@ body{
     text-shadow: 5px 5px 10px black;
 }
 .drum1{
-    background-image: url("./images/tom1.png");
+    background-image: url("tom1.png");
 }
 .drum2{
-    background-image: url("./images/tom2.png");
+    background-image: url("tom2.png");
 }
 .drum3{
-    background-image: url("./images/tom3.png");
+    background-image: url("tom3.png");
 }
 .drum4{
-    background-image: url("./images/tom4.png");
+    background-image: url("tom4.png");
 }
 .drum5{
-    background-image: url("./images/crash.png");
+    background-image: url("crash.png");
 }
 .drum6{
-    background-image: url("./images/kick.png");
+    background-image: url("kick.png");
 }
 .drum7{
-    background-image: url("./images/snare.png");
+    background-image: url("snare.png")
 }
 @media(max-width:680px){
     .heading{
